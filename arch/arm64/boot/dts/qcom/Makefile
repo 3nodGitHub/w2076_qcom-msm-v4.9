@@ -494,6 +494,7 @@ dtb-$(CONFIG_ARCH_MSM8953) += apq8053-cdp.dtb \
 	apq8053-lite-dragon-v2.2.4.dtb \
 	apq8053-lite-dragon-v2.3.dtb \
 	apq8053-lite-dragon-v2.4.dtb \
+	apq8053-lite-dragon-v2.5.dtb \
 	apq8053-mtp.dtb \
 	apq8053-rcm.dtb \
 	msm8953-cdp.dtb \
